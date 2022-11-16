@@ -1,2 +1,1 @@
 # multiplicationTable
-# multiplicationTable
